@@ -18,7 +18,7 @@ Command line:
 
 Plugin:
 
-    $ scout test snmp_plugin.rb targets=SNMPv2-MIB::sysServices.0,1.3.6.1.4.1.12046.1.2.6.0
+    $ scout test snmp_plugin.rb targets=sysServices.0,1.3.6.1.4.1.12046.1.2.6.0
     
     == Output:
     {:reports=>
